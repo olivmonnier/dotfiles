@@ -53,3 +53,7 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# OS metadata
+.DS_Store
+Thumbs.db
